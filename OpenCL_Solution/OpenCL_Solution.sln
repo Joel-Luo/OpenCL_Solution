@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCL_TestPlatform", "OpenCL_TestPlatform\OpenCL_TestPlatform.vcxproj", "{7AF4B15F-7904-4703-BE8D-84BE342A21D9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCL_ParallelComputing", "OpenCL_ParallelComputing\OpenCL_ParallelComputing.vcxproj", "{61C56AC9-AE49-4532-98A2-83F59CEA9D03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,14 @@ Global
 		{7AF4B15F-7904-4703-BE8D-84BE342A21D9}.Release|Win32.Build.0 = Release|Win32
 		{7AF4B15F-7904-4703-BE8D-84BE342A21D9}.Release|x64.ActiveCfg = Release|x64
 		{7AF4B15F-7904-4703-BE8D-84BE342A21D9}.Release|x64.Build.0 = Release|x64
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Debug|Win32.Build.0 = Debug|Win32
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Debug|x64.ActiveCfg = Debug|x64
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Debug|x64.Build.0 = Debug|x64
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Release|Win32.ActiveCfg = Release|Win32
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Release|Win32.Build.0 = Release|Win32
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Release|x64.ActiveCfg = Release|x64
+		{61C56AC9-AE49-4532-98A2-83F59CEA9D03}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
